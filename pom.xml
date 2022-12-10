@@ -42,7 +42,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-web</artifactId>
-            <version>5.1.6.RELEASE</version><!--<version>5.0.9.RELEASE</version>会报错org.springframework.http.client.support.BasicAuthenticationInterceptor，版本太低-->
+            <version>6.0.0</version><!--<version>5.0.9.RELEASE</version>会报错org.springframework.http.client.support.BasicAuthenticationInterceptor，版本太低-->
         </dependency>
         <dependency>
             <groupId>org.springframework.amqp</groupId>
